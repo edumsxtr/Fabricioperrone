@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Fabrício+Perrone+🤓+;I'm+from+Brasil,+Viamão-RS+🗺;I+am+a+QA+Testing+Analyst+Testing+🕵️‍👨‍💻;Be+Welcome!+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Luís+Eduardo+🤓+;I'm+from+Brasil,+Boa+Vista-RR+🗺;I+am+a+QA+Testing+Analyst+Testing+🕵️‍👨‍💻;Be+Welcome!+🥰)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Fabricioperrone">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioperrone&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/edumsxtr">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=edumsxtr&show_icons=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumsxtr&layout=compact&langs_count=7&theme=radical"/>
     
 
 
@@ -62,10 +62,10 @@
 
 <div align="center">
 <h3>Contact-me:</h3>
-<a href="https://github.com/Fabricioperrone" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C8BBF?style=for-the-badge&logo=p&logoColor=white"></a>
-<a href="mailto:fabricio_luis@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/fabricioperrone-qa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://contate.me/fabricioperroneqa" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-2C8BBF?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://github.com/edumsxtr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C8BBF?style=for-the-badge&logo=p&logoColor=white"></a>
+<a href="mailto: eduardomsxtr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/luiseduardoqatester/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </div>
 
 #
