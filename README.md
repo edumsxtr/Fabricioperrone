@@ -49,7 +49,6 @@
 <div align="center">
 <h3>Contact-me:</h3>
 <a href="https://github.com/edumsxtr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C8BBF?style=for-the-badge&logo=p&logoColor=white"></a>
-<a href="mailto:eduardomsxtr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/luiseduardoqatester/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
